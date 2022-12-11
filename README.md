@@ -1,11 +1,12 @@
 # React Todo App with API
 
-Functionality:
-Filtering todos
-Adding a todo
-Deleting todos
-Toggling a todo status
-Renaming a todo
+Functionality: <br />
+<br />
+  Filtering todos <br />
+  Adding a todo <br />
+  Deleting todos <br />
+  Toggling a todo status <br />
+  Renaming a todo
 
 1. Technologies: React, HTML, SCSS
-1. - [DEMO LINK](https://arturnagaycev.github.io/react_todo-app-with-api/)
+1. [DEMO LINK](https://arturnagaycev.github.io/react_todo-app-with-api/)
